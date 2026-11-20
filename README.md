@@ -25,7 +25,7 @@
 </div>
 
 ## 𑣲𝄞| my socials
-₊˚⊹ᰔ| instagram: <a href="https://www.instagram.com/masesiveysepide/?hl=es">
+₊˚⊹ᰔ| instagram: <a href="https://www.instagram.com/masesiveysepide">
 <br>
 .☘︎ ݁˖| linkedin: <a href="https://www.linkedin.com/in/franca-polack">
 <br>
