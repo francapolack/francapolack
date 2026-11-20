@@ -25,6 +25,7 @@
 </div>
 
 ## 𑣲𝄞| my socials
+<br>
 <a href="https://www.instagram.com/francapolack/"><p>₊˚⊹ᰔ|instagram</p></a>
 <br>
 <a href="https://www.linkedin.com/in/franca-polack"><p>.☘︎ ݁˖|linkedin</p></a>
