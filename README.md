@@ -1,6 +1,17 @@
-## holi soy fran (˶ˆᗜˆ˵)
+## hi im fran (˶ˆᗜˆ˵)
 [<img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="200px"/>](https://github.com/francapolack/francapolack/blob/main/rilakkuma.png)
 [![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=francapolack)](https://github.com/stats-organization/github-stats-extended)
+## about me
+˚˖𓍢ִ໋❀|im a senior in high school currently specializing in programming (associates degree) 
+<br>
+⋆˚꩜｡|im really passionate about astronomy, libre software, and programming (in general) 
+<br>
+𑣲𝄞|currently im studying:
+<ul>
+    <li>Python(with some computer vision projects)</li>
+    <li>HTML and CSS</li>
+    <li>C++(for Arduino and ESP32 boards)</li>
+</ul>
 
 ## my tech stack
 <div style="display: flex; gap: 2px; align-items: center;">
@@ -10,4 +21,9 @@
 <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/cpp.svg" width="64px"/>
 <img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/linux.svg" width="64"/>
 </div>
+
+## my socials
+₊˚⊹ᰔ| instagram: <a href="https://www.instagram.com/masesiveysepide/?hl=es">
+.☘︎ ݁˖| linkedin: <a href="https://www.linkedin.com/in/franca-polack">
+˖ ݁♬⋆.˚𝄞| letterboxd: <a href="https://letterboxd.com/frmuo/">
 
