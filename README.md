@@ -25,9 +25,9 @@
 </div>
 
 ## 𑣲𝄞| my socials
-₊˚⊹ᰔ|  <a href="https://www.instagram.com/masesiveysepide"><p>instagram</p></a>
+<a href="https://www.instagram.com/francapolack/"><p>₊˚⊹ᰔ|instagram</p></a>
 <br>
-.☘︎ ݁˖|<a href="https://www.linkedin.com/in/franca-polack"><p>linkedin</p></a>
+<a href="https://www.linkedin.com/in/franca-polack"><p>.☘︎ ݁˖|linkedin</p></a>
 <br>
-˖ ݁♬⋆.˚𝄞| letterboxd: <a href="https://letterboxd.com/frmuo/"><p>letterboxd</p></a>
+<a href="https://letterboxd.com/frmuo/"><p>˖ ݁♬⋆.˚𝄞| letterboxd</p></a>
 
