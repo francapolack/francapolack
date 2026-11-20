@@ -1,5 +1,5 @@
 <div style="display:flex; align-items:center;">
-  <img src="https://github.com/francapolack/francapolack/rilakkuma.png">
+  <img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png">
 </div>
 ## holi soy fran (˶ˆᗜˆ˵)
 
