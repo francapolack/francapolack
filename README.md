@@ -5,3 +5,6 @@
 
 ## my tech stack
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/css.svg" width="64px"/>
+
