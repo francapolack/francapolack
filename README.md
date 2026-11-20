@@ -1,7 +1,7 @@
 ## holi soy fran (˶ˆᗜˆ˵)
 
-<img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="100px">
-[![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=francapolack)](https://github.com/stats-organization/github-stats-extended)
+<img src="rilakkuma.png">
+<a href="[![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=francapolack)](https://github.com/stats-organization/github-stats-extended)">
 
 ## my tech stack
 <div style="display: flex; gap: 2px; align-items: center;">
