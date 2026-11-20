@@ -1,6 +1,5 @@
 ## holi soy fran (˶ˆᗜˆ˵)
-![rilakkuma](https://github.com/francapolack/francapolack/blob/main/rilakkuma.png)
-[<img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="200px" />](https://github.com/francapolack/francapolack/blob/main/rilakkuma.png)
+[<img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="200px"/>](https://github.com/francapolack/francapolack/blob/main/rilakkuma.png)
 "[![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=francapolack)](https://github.com/stats-organization/github-stats-extended)
 
 ## my tech stack
