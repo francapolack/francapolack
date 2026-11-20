@@ -1,9 +1,6 @@
 ## holi soy fran (˶ˆᗜˆ˵)
-<div style="display:flex; justify-content:center;>
-  <img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="100px">
-</div>
 
-
+<img src="https://github.com/francapolack/francapolack/blob/main/rilakkuma.png" width="100px">
 [![Fran's GitHub stats](https://github-stats-extended.vercel.app/api?username=francapolack)](https://github.com/stats-organization/github-stats-extended)
 
 ## my tech stack
